@@ -10,20 +10,20 @@ i{
 }
 
 i.fa-envelope{
-  left:8rem;
-  font-size: 4rem;
+  left:10rem;
+  font-size: 5rem;
 }
 
 i.fa-instagram{
-  left: 14rem;
-  font-size: 4rem;
+  left: 16rem;
+  font-size: 5rem;
 }
 i.fa-envelope:hover{
   font-size: 5rem;
 }
 
 i.fa-instagram:hover{
-  font-size: 5rem;
+  font-size: 8rem;
 }
 
 /*i.fa-facebook{
@@ -58,6 +58,6 @@ i.fa-instagram:hover{
 }
 
 .logo{
-  width: 95rem;
+  width: 150rem;
   margin-top: 4rem
 }
