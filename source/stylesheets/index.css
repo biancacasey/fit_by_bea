@@ -1,0 +1,63 @@
+body{
+  background-color: #fff;
+}
+
+i{
+  position: absolute;
+  bottom: 20rem;
+  left:30rem;
+  color: #fff;
+}
+
+i.fa-envelope{
+  left:8rem;
+  font-size: 4rem;
+}
+
+i.fa-instagram{
+  left: 14rem;
+  font-size: 4rem;
+}
+i.fa-envelope:hover{
+  font-size: 5rem;
+}
+
+i.fa-instagram:hover{
+  font-size: 5rem;
+}
+
+/*i.fa-facebook{
+  left: 12rem;
+  font-size: 2rem;
+}*/
+
+.nav-body{
+  background-image: url("../images/nav-bg.png");
+  background-size: cover;
+  height: 100vh;
+  width: 30vw;
+  position: fixed;
+}
+
+.bio{
+  white-space: pre-line;
+  padding-right: 5rem;
+  padding-left: 25rem;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 1.5rem;
+}
+
+.dp{
+  margin-top:3%;
+  padding-left: 10rem;
+}
+
+.footer{
+  background-color: #c42b86;
+  height: 10vh;
+}
+
+.logo{
+  width: 95rem;
+  margin-top: 4rem
+}
